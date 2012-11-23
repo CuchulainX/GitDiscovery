@@ -1,0 +1,4 @@
+GitDiscovery
+============
+
+Git Functionality Discovery
